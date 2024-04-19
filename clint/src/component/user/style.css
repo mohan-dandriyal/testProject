@@ -1,0 +1,11 @@
+
+
+.user {
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #484646db;
+    z-index: 9999;
+}
